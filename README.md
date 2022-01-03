@@ -1,1 +1,3 @@
 # odin-recipes
+(english) The ability to implement paragraphs, links (relative, although absolutes could have been used), images, lists (both ordered and unordered). The use of the <strong> tag and comments. 
+(español) La habilidad de implementar parrafos, links (relativos, aunque podria haber implementado absolutos), imagenes, listas (ordenadas y desordenadas). El uso del <strong> tag y comentarios.
